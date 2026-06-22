@@ -1,0 +1,4 @@
+Estrutura Geral (Template G1)
+Esta é a fórmula base "crua". Ela pode ser facilmente copiada e ter as variáveis entre colchetes substituídas por qualquer outro tema ou problema futuro, mantendo a característica de interação mínima.
+
+"Escreva um(a) [tipo de entrega desejada, ex: código, algoritmo, explicação] em [linguagem de programação ou formato, se aplicável] para resolver o problema de [descrição direta e curta do problema]. A solução deve utilizar [conceito/ferramenta 1] e [conceito/ferramenta 2]."

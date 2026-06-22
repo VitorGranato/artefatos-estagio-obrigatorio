@@ -1,0 +1,37 @@
+Estrutura Geral (Template G3)
+Este template é o mais robusto. Ele não apenas diz ao modelo o que fazer, mas como fazer, como será avaliado e dá um exemplo prático do padrão esperado.
+
+"Atue como um [papel/especialista]. O seu público-alvo é [público-alvo].
+Sua tarefa é [tarefa principal e seu detalhamento].
+
+Contexto Adicional:
+[Informação de fundo que ajuda a entender a importância ou o cenário do problema].
+
+Critérios de Qualidade Esperados:
+
+Clareza: [Como a explicação e o código devem ser apresentados].
+
+Completude: [O que não pode faltar de jeito nenhum na solução].
+
+Adequação: [Fatores de otimização ou boas práticas da área].
+
+Estrutura Obrigatória da Resposta:
+
+[Seção 1, ex: Análise do Problema]
+
+[Seção 2, ex: Implementação]
+
+[Seção 3, ex: Teste de Mesa / Exemplo de Execução]
+
+Restrições e Diretrizes:
+
+A saída deve ser em [formato, ex: Markdown].
+
+[Restrição técnica 1].
+
+Evite o excesso de comentários ao longo do código gerado para manter uma leitura limpa, fluida e com aspecto de código real de produção, e não de texto artificial.
+
+Exemplo de Entrada e Saída (Few-Shot):
+Para ilustrar o padrão esperado, considere este cenário hipotético:
+Entrada: [Cenário de teste]
+Saída Esperada: [Como o código ou sistema deve responder a essa entrada específica]"

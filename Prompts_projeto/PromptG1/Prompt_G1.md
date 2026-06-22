@@ -1,0 +1,1 @@
+Escreva um código em linguagem C para resolver o problema de buscar um valor específico dentro de uma árvore binária. A solução deve utilizar manipulação de ponteiros e recursividade.

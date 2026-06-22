@@ -1,0 +1,22 @@
+Estrutura Geral (Template G2)
+
+Este template eleva a complexidade ao forçar o modelo de linguagem a assumir uma "persona", estruturar o raciocínio em tópicos e obedecer a regras estritas.
+
+"Atue como um [papel/especialista]. O seu público-alvo é [público-alvo, ex: estudantes universitários].
+Sua tarefa é [tarefa principal e seu detalhamento].
+
+Estrutura da Resposta:
+
+[Seção 1, ex: Visão Geral Teórica]: [O que deve conter e qual o tamanho esperado].
+
+[Seção 2, ex: Implementação]: [O que deve conter, ex: Código Fonte].
+
+[Seção 3, ex: Análise de Complexidade]: [O que deve conter].
+
+Restrições e Diretrizes:
+
+O formato de saída deve ser [formato, ex: Markdown].
+
+A implementação deve focar em [estilo de código ou arquitetura desejada].
+
+Evite o excesso de comentários ao longo do código para manter uma leitura limpa, objetiva e sem aparência de texto gerado artificialmente."
